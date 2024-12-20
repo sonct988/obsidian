@@ -1,8 +1,8 @@
 ---
-icon: bullseye-arrow
+icon: lock
 ---
 
-# Quickstart
+# An toàn và bảo mật cho Facebook
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
