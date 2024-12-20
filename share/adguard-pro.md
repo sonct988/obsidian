@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Adguard Pro
 
 ## Giới thiệu

@@ -6,6 +6,6 @@
 
 * [An toàn và bảo mật cho Facebook](bao-mat/facebook.md)
 
-***
+## Share
 
-* [Adguard Pro](adguard-pro.md)
+* [Adguard Pro](share/adguard-pro.md)
