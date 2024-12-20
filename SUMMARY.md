@@ -2,8 +2,6 @@
 
 * [Welcome](README.md)
 
-## Bảo mật
-
 ## Share
 
 * [Adguard Pro](share/adguard-pro.md)
