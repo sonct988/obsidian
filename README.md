@@ -19,11 +19,9 @@ layout:
 ---
 
 # Welcome
+Chào mừng bạn đến với Share Obsidian! Đây là site của cá nhân **"Sonct"** được tạo ra để chia sẻ các tài liệu, thông tin từ ứng dụng ghi chú Obsidian.
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Bạn có thể thấy một số các bài viết khác không liên quan đến nội dung bạn được chia sẻ, hãy bỏ qua chúng nếu bạn không quan tâm.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
-
-### Jump right in
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+# Thông tin liên hệ:
+[Telegram: Contact @sonct988](https://t.me/sonct988)
