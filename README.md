@@ -23,5 +23,5 @@ Chào mừng bạn đến với Share Obsidian! Đây là site của cá nhân *
 
 Bạn có thể thấy một số các bài viết khác không liên quan đến nội dung bạn được chia sẻ, hãy bỏ qua chúng nếu bạn không quan tâm.
 
-# Thông tin liên hệ:
+# Thông tin liên hệ
 [Telegram: Contact @sonct988](https://t.me/sonct988)
