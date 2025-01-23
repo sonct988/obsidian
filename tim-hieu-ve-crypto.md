@@ -150,3 +150,84 @@ Có 2 loại ví là ví lạnh và ví nóng:
   * (2) Giá muốn mua (Nếu chọn lệnh Market sẽ không hiển thị dòng này)
   * (3) Điền khối lượng USDT mình muốn mua (như chứng khoán thì đây là tổng số tiền mình muốn mua). Còn muốn mua theo số lượng như chứng khoán thì khá khó do nó còn quy đổi tiền nên dễ nhất là chọn theo tổng số tiền mình muốn mua.
   * (4) Sau khi ấn nút **Mua** lệnh sẽ được hiển thị ở phần dưới này. (Nếu khớp lệnh sẽ vào mục **vị thế**) ![gd04|500](https://i.imgur.com/TY6ckWH.jpeg)
+
+## Giới thiệu Launchpool:
+
+### Bybit Launchpool Là Gì?
+
+Bybit Launchpool là một tính năng cho phép người dùng stake nhiều loại tiền điện tử như USDT, USDC, MNT hoặc các token dự án cụ thể để nhận phần thưởng token miễn phí. Các token đã stake có thể được rút lại bất cứ lúc nào trong thời gian sự kiện diễn ra.
+
+#### Lợi ích chính:
+
+* Kiếm thêm thu nhập thụ động từ tài sản crypto.
+* Không yêu cầu khóa cứng tài sản; bạn có thể rút lại bất kỳ lúc nào.
+* Phần thưởng được phân phối hàng ngày dựa trên số lượng stake trung bình.
+
+### Cách Thức Hoạt Động:
+
+Bybit Launchpool hoạt động theo cơ chế staking và phân phối phần thưởng như sau:
+
+* **Stake Token:** Người dùng chọn nhóm staking phù hợp (ví dụ: nhóm USDT hoặc nhóm token dự án).
+* **Tính Toán Lợi Nhuận:** Hệ thống chụp nhanh số lượng token đã stake vào một phút ngẫu nhiên mỗi giờ trong ngày. Số tiền stake trung bình hàng ngày của bạn sẽ được sử dụng để tính toán phần thưởng.
+  * Công thức tính lợi nhuận hàng ngày:
+
+```
+Lợi nhuận hàng ngày=(Số tiền stake trung bình hàng ngày của bạn / Tổng số tiền stake của tất cả người dùng) × Tổng phần thưởng hàng ngày
+```
+
+* **Phân Phối Phần Thưởng:** Phần thưởng sẽ được tự động gửi vào Tài Khoản Funding của bạn trong vòng vài giờ sau nửa đêm UTC mỗi ngày
+
+### Đăng ký tham gia:
+
+* Truy cập Bybit Launchpool.
+* Đăng ký tham gia dự án mà bạn quan tâm.
+* Stake token vào nhóm tương ứng để bắt đầu kiếm phần thưởng.
+
+### Lưu ý:
+
+* Bạn có thể ngừng stake bất cứ lúc nào trong thời gian sự kiện diễn ra; số tiền đã stake sẽ tự động hoàn trả vào Tài Khoản Funding của bạn ngay lập tức.
+* Sau khi thời gian staking kết thúc, nút “Hủy Stake” sẽ không khả dụng nữa, nhưng số tiền đã stake sẽ tự động được trả lại.
+* APR ước tính có thể thay đổi tùy thuộc vào tổng số lượng token đã stake trong nhóm.
+
+## Giới thiệu Launchpad:
+
+### Launchpad là gì?
+
+* Launchpad là một sản phẩm của sàn giao dịch tiền mã hóa Bybit, nơi các dự án blockchain mới có thể giới thiệu và phân phối token của họ đến với cộng đồng người dùng.
+* Nền tảng này hoạt động như một công cụ giúp các nhà đầu tư tiếp cận sớm với những dự án tiềm năng, trong khi các nhà phát triển dự án có thể huy động vốn và xây dựng cộng đồng xung quanh sản phẩm của mình. Điều này tạo ra lợi ích đôi bên: các nhà đầu tư có cơ hội mua token ở giá thấp trước khi niêm yết chính thức, còn các dự án nhận được sự hỗ trợ tài chính và quảng bá.
+
+### Cách thức tham gia:
+
+#### 1. Cam kết bằng MNT (Mantle):
+
+* Người dùng cam kết số lượng MNT tối thiểu là 50 MNT để nhận quyền mua token mới.
+* Ưu điểm: Bạn chắc chắn sẽ nhận được suất mua token nếu cam kết đủ số lượng MNT.
+* Nhược điểm: Giá trị của MNT thường giảm sau sự kiện Launchpad do nhiều nhà đầu tư bán tháo.
+
+#### 2. Xổ số bằng USDT:
+
+* Người dùng chuẩn bị ít nhất 100 USDT để đổi lấy vé xổ số.
+* Ưu điểm: Phù hợp với người có vốn nhỏ hoặc vừa; không chịu rủi ro biến động giá sau sự kiện.
+* Nhược điểm: Xác suất trúng thưởng thấp vì lượng người tham gia đông đảo.
+
+### Đăng ký và cam kết:
+
+* Truy cập vào mục Launchpad trên nền tảng Bybit và chọn dự án muốn tham gia.
+* Cam kết số lượng MNT hoặc USDT tương ứng với hình thức đã chọn. Số tiền cam kết sẽ bị khóa cho đến khi phân phối hoàn tất.
+  * Nếu chọn cam kết bằng MNT, bạn cần duy trì ít nhất 50 MNT trung bình mỗi ngày.
+  * Nếu chọn xổ số bằng USDT, bạn cần duy trì ít nhất 100 USDT trung bình mỗi ngày.
+
+### Phân phối - trả thưởng:
+
+* Với hình thức cam kết MNT: Số lượng token mới sẽ được tính toán và trừ đi từ số tiền đã cam kết.
+* Với hình thức xổ số USDT: Nếu trúng thưởng, bạn sẽ nhận được một phần nhỏ token mới; nếu không trúng thưởng, toàn bộ số tiền USDT sẽ được hoàn trả.
+* Sau khi phân phối xong, token mới sẽ được niêm yết trên sàn giao dịch Spot của Bybit
+
+### Kiểm tra kết quả:
+
+Truy cập vào Launchpad và xem kết quả: (Dò như kết quả xổ số) Kiểm tra mã số trúng thưởng:
+
+* Chữ số cuối cùng
+* 2 chữ số cuối cùng
+* 3 chữ số cuối cùng
+* 4 chữ số cuối cùng ![Launchpad|500](https://i.imgur.com/Ly78Auh.jpeg)
