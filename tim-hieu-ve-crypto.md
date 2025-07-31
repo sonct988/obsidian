@@ -145,11 +145,16 @@ Có 2 loại ví là ví lạnh và ví nóng:
 
 ![gd02|500](https://i.imgur.com/SYHSIDE.jpeg)
 
-* Giải thích các mục trong giao dịch:
-  * (1) Tuỳ chọn lệnh mua **limit** (theo giá đặt), mua **Market** (giống lệnh MP ở chứng khoán). Còn các lệnh khác không biết xài, thử nhiều lần chưa thành công
-  * (2) Giá muốn mua (Nếu chọn lệnh Market sẽ không hiển thị dòng này)
-  * (3) Điền khối lượng USDT mình muốn mua (như chứng khoán thì đây là tổng số tiền mình muốn mua). Còn muốn mua theo số lượng như chứng khoán thì khá khó do nó còn quy đổi tiền nên dễ nhất là chọn theo tổng số tiền mình muốn mua.
-  * (4) Sau khi ấn nút **Mua** lệnh sẽ được hiển thị ở phần dưới này. (Nếu khớp lệnh sẽ vào mục **vị thế**) ![gd04|500](https://i.imgur.com/TY6ckWH.jpeg)
+*   Giải thích các mục trong giao dịch:
+
+    * (1) Tuỳ chọn lệnh mua **limit** (theo giá đặt), mua **Market** (giống lệnh MP ở chứng khoán). Còn các lệnh khác không biết xài, thử nhiều lần chưa thành công
+    * (2) Giá muốn mua (Nếu chọn lệnh Market sẽ không hiển thị dòng này)
+    * (3) Điền khối lượng USDT mình muốn mua (như chứng khoán thì đây là tổng số tiền mình muốn mua). Còn muốn mua theo số lượng như chứng khoán thì khá khó do nó còn quy đổi tiền nên dễ nhất là chọn theo tổng số tiền mình muốn mua.
+    * (4) Sau khi ấn nút **Mua** lệnh sẽ được hiển thị ở phần dưới này. (Nếu khớp lệnh sẽ vào mục **vị thế**)
+
+
+
+    &#x20;![gd04|500](https://i.imgur.com/TY6ckWH.jpeg)
 
 ## Giới thiệu Launchpool:
 
@@ -230,4 +235,8 @@ Truy cập vào Launchpad và xem kết quả: (Dò như kết quả xổ số) 
 * Chữ số cuối cùng
 * 2 chữ số cuối cùng
 * 3 chữ số cuối cùng
-* 4 chữ số cuối cùng ![Launchpad|500](https://i.imgur.com/Ly78Auh.jpeg)
+* 4 chữ số cuối cùng
+
+
+
+* ![Launchpad|500](https://i.imgur.com/Ly78Auh.jpeg)
