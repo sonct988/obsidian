@@ -53,7 +53,7 @@ Có 2 loại ví là ví lạnh và ví nóng:
   * Ethereum (ETH)
   * Binance Coin (BNB) Coin sàn binance. Sàn tạo ra đồng coin riêng của sàn.
   * Solana (SOL)
-  * Toncoin (TON): hệ sinh thái của telegram
+  * Toncoin (TON): hệ sinh thái của telegram \[\[He sinh thai TON]]
 
 ### Token:
 
@@ -67,7 +67,7 @@ Có 2 loại ví là ví lạnh và ví nóng:
 
 ### Các hình thức mua USDT:
 
-* Giao dịch P2P: Chuyển khoản ngân hàng, Momo, VNPay, mBank, ViettelPay...
+* \[\[Giao dich P2P - Bybit]]: Chuyển khoản ngân hàng, Momo, VNPay, mBank, ViettelPay...
 * Nạp tiền: Chuyển tiền từ ví hoặc sàn khác qua, giao dịch bằng nạp tiền thông qua VietQR (tính phí \~2%)
 * Bank Card: Thẻ tín dụng hoặc ghi nợ quốc tế
 
